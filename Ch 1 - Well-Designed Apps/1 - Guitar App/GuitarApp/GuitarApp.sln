@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuitarApp", "GuitarApp.csproj", "{4E8E1BF5-F216-4995-B22A-123279BC56EB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuitarApp", "GuitarApp.csproj", "{13AF4639-3833-4ECE-8E0D-BAE8E22F1FCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4E8E1BF5-F216-4995-B22A-123279BC56EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4E8E1BF5-F216-4995-B22A-123279BC56EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4E8E1BF5-F216-4995-B22A-123279BC56EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4E8E1BF5-F216-4995-B22A-123279BC56EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13AF4639-3833-4ECE-8E0D-BAE8E22F1FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13AF4639-3833-4ECE-8E0D-BAE8E22F1FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13AF4639-3833-4ECE-8E0D-BAE8E22F1FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13AF4639-3833-4ECE-8E0D-BAE8E22F1FCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
