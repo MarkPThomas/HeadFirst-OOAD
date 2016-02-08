@@ -21,8 +21,8 @@ namespace GuitarApp
             {
                 string msgSuccess = "Erin, you might like this " +
                     guitar.builder + " " + guitar.model + " " +
-                    guitar.type + " guitar:\n     " +
-                    guitar.backWood + " back and sides,\n   " +
+                    guitar.type + " guitar:\n    " +
+                    guitar.backWood + " back and sides,\n    " +
                     guitar.topWood + " top.\nYou can have it for only $" +
                     guitar.price + "!";
 

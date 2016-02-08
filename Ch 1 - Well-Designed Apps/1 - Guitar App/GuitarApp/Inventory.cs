@@ -60,7 +60,11 @@ namespace GuitarApp
                 if (stringsMatch(searchGuitar.topWood, guitar.topWood)) { continue; }
 
                 // Head First example never returns the 'guitar' object if this part of the code is reached.
-                // Reason for failure in the first example?
+                // Main reason for failure in the first example. It works if the following is used:
+                // return guitar;
+                // This would also have failed if I had copied the Java more literally: 
+                //      'string.Compare' is case is case insensitive, and this was reasonable to apply
+                //      since I had refactored all of the string comparisons into a single method.
             }
             return null;
         }
