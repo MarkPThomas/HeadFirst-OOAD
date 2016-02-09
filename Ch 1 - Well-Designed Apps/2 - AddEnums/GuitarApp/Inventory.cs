@@ -44,8 +44,9 @@ namespace GuitarApp
             return null;
         }
 
-        public Guitar search(Guitar searchGuitar)
+        public List<Guitar> search(Guitar searchGuitar)
         {
+            List<Guitar> matchingGuitars = new List<Guitar>();
             for (int i = 0; i < _guitars.Count; i++)
             {
                 Guitar guitar = _guitars[i];
@@ -53,20 +54,15 @@ namespace GuitarApp
                 // Ignore price since that's unique
 
                 // Check if matches fail
-                if (searchGuitar.builder == guitar.builder) { continue; }
-                if (stringsMatch(searchGuitar.model, guitar.model)) { continue; }
-                if (searchGuitar.type == guitar.type) { continue; }
-                if (searchGuitar.backWood == guitar.backWood) { continue; }
-                if (searchGuitar.topWood == guitar.topWood) { continue; }
+                if (searchGuitar.builder != guitar.builder) { continue; }
+                if (!stringsMatch(searchGuitar.model, guitar.model)) { continue; }
+                if (searchGuitar.type != guitar.type) { continue; }
+                if (searchGuitar.backWood != guitar.backWood) { continue; }
+                if (searchGuitar.topWood != guitar.topWood) { continue; }
 
-                // Head First example never returns the 'guitar' object if this part of the code is reached.
-                // Main reason for failure in the first example. It works if the following is used:
-                // return guitar;
-                // This would also have failed if I had copied the Java more literally: 
-                //      'string.Compare' is case is case insensitive, and this was reasonable to apply
-                //      since I had refactored all of the string comparisons into a single method.
+                matchingGuitars.Add(guitar);
             }
-            return null;
+            return matchingGuitars;
         }
         #endregion
 
@@ -76,7 +72,7 @@ namespace GuitarApp
         {
             if (!string.IsNullOrEmpty(stringA) &&
                 !string.IsNullOrEmpty(stringB) &&
-                string.Compare(stringA, stringB) != 0)
+                string.Compare(stringA, stringB) == 0)
             {
                 return true;
             }

@@ -10,6 +10,7 @@ namespace GuitarApp
     {
         static void Main(string[] args)
         {
+            FindGuitarTester.testErin();
         }
     }
 }
