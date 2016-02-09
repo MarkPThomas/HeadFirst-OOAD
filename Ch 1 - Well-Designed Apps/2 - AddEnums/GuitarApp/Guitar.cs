@@ -37,6 +37,7 @@ namespace GuitarApp
             this.price = price;
             this.builder = builder;
             this.model = model;
+            this.type = type;
             this.backWood = backWood;
             this.topWood = topWood;
         }
