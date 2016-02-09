@@ -53,11 +53,11 @@ namespace GuitarApp
                 // Ignore price since that's unique
 
                 // Check if matches fail
-                if (stringsMatch(searchGuitar.builder, guitar.builder)) { continue; }
-                if (stringsMatch(searchGuitar.model, guitar.model)) { continue; }
-                if (stringsMatch(searchGuitar.type, guitar.type)) { continue; }
-                if (stringsMatch(searchGuitar.backWood, guitar.backWood)) { continue; }
-                if (stringsMatch(searchGuitar.topWood, guitar.topWood)) { continue; }
+                if (!stringsMatch(searchGuitar.builder, guitar.builder)) { continue; }
+                if (!stringsMatch(searchGuitar.model, guitar.model)) { continue; }
+                if (!stringsMatch(searchGuitar.type, guitar.type)) { continue; }
+                if (!stringsMatch(searchGuitar.backWood, guitar.backWood)) { continue; }
+                if (!stringsMatch(searchGuitar.topWood, guitar.topWood)) { continue; }
 
                 // Head First example never returns the 'guitar' object if this part of the code is reached.
                 // Main reason for failure in the first example. It works if the following is used:
@@ -76,7 +76,7 @@ namespace GuitarApp
         {
             if (!string.IsNullOrEmpty(stringA) &&
                 !string.IsNullOrEmpty(stringB) &&
-                string.Compare(stringA, stringB) != 0)
+                string.Compare(stringA, stringB) == 0)
             {
                 return true;
             }
