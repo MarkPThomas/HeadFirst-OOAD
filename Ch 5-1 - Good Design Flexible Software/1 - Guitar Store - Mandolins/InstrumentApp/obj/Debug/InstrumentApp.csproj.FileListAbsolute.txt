@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-OOAD\Ch 5-1 - Good Design Flexible Software\1 - Guitar Store - Mandolins\InstrumentApp\bin\Debug\GuitarApp.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-OOAD\Ch 5-1 - Good Design Flexible Software\1 - Guitar Store - Mandolins\InstrumentApp\obj\Debug\GuitarApp.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-OOAD\Ch 5-1 - Good Design Flexible Software\1 - Guitar Store - Mandolins\InstrumentApp\obj\Debug\GuitarApp.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-OOAD\Ch 5-1 - Good Design Flexible Software\1 - Guitar Store - Mandolins\InstrumentApp\bin\Debug\GuitarApp.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-OOAD\Ch 5-1 - Good Design Flexible Software\1 - Guitar Store - Mandolins\InstrumentApp\bin\Debug\GuitarApp.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-OOAD\Ch 5-1 - Good Design Flexible Software\1 - Guitar Store - Mandolins\InstrumentApp\obj\Debug\InstrumentApp.csprojResolveAssemblyReference.cache
