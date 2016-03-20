@@ -1,0 +1,6 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+
+====== Object Oriented Design & Analysis - Template ======
+This wiki serves as a template for documentation of the planning process for a project using object oriented design and analysis.
+[[./Documentation Planning.docx]] 

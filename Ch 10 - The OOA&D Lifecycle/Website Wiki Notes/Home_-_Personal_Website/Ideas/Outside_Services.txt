@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2015-05-03T11:26:16-07:00
-
-====== Outside Services ======
-Created Sunday 03 May 2015
-
