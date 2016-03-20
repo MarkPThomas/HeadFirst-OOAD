@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-05-02T19:43:26-07:00
+
+====== Trip Report Components ======
+Created Saturday 02 May 2015
+
+* [[+Trip Report Headers|Trip Report Headers]]
+* [[+Trip Report Body|Trip Report Body]]  
+* [[+Trip Report Footers|Trip Report Footers]]
+* [[+Trip Report Follow Along Navigator|Trip Report Follow Along Navigator]]
+
+**TO DO:** Work out how this collapses with different screen sizes with Bootstrap.
+	* [[http://markpthomas.github.io/?#|Bootstrap3 Demo]]
+
+Cycling on another set of pages?
+* Cycling
+	* Trip Reports
+	* Routes
+	* Personal Riding Stats
+

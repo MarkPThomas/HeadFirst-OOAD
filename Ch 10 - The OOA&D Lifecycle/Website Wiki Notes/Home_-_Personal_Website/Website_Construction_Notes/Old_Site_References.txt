@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-05-02T19:25:48-07:00
+
+====== Old Site References ======
+Created Saturday 02 May 2015
+
+This page contains a list of some representative pages from the old website from which I am looking for layout ideas and content needs.
+	* [[http://markpthomas.github.io/?#|Bootstrap3 Demo]]
+	* [[http://www.markpthomas.com/mountaineering/trip-reports/california/palisade-tangent-traverse|Palisade Tangent Traverse]] (Group TRs TR)
+	* [[http://www.markpthomas.com/mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver|Cycling and Scrambling from Calgary to Vancouver]]  (Group TRs TR)
+	* [[http://www.markpthomas.com/mountaineering/trip-reports/wyoming/teton-grand-slam-8-classic-routes-and-some-traverses-done-over-a-9-day-climbing-marathon|Teton Grand Slam]]  (Group TRs TR)
+	* [[http://www.markpthomas.com/mountaineering/trip-reports/wyoming/teton-grand-slam-8-classic-routes-and-some-traverses-done-over-a-9-day-climbing-marathon/day-4-serendipity-arete-of-mt-owen-iv-5-9|Teton Grand Slam: Day 4: Serendipity Arete of Mt Owen (IV, 5.9)]] (Sub-Group TR)
+	* [[http://www.markpthomas.com/mountaineering/trip-reports/california/sierra-challenge-2005|Sierra Challenge 2005]]  (Group TRs TR)
+	* [[http://www.markpthomas.com/mountaineering/trip-reports/california/mt-hilgard-pipsqueak-spire|Sierra Challenge 2005: Day 1: Mt Hilgard (S Face) & Pipsqueak Spire (Cox Col & Hourglass Couloir)]]  (Sub-Group TR)(Automated TR)
+	* [[http://www.markpthomas.com/mountaineering/trip-reports/california/south-face-of-charlotte-dome-iii-5-8|South Face of Charlotte Dome]]
+	* [[http://www.markpthomas.com/mountaineering/trip-reports/california/mark-n-dirk-s-bivouac-trilogy---part-2-mt-sill|Mark N' Dirk's Bivouac Trilogy - Part 2: Mt Sill]]  (Sub-Group TR, no header TR)
+	* [[http://www.markpthomas.com/mountaineering/trip-reports/california/2011-03-13-carlheller|Partying Like a G6 on the East Ridge of Carl Heller (In Winter Style)]] 
+		* [[Home:Website Construction Notes:Google Earth Plugin]] 

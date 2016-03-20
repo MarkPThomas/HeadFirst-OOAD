@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-05-02T19:20:08-07:00
+
+====== Implementation Methods ======
+Created Saturday 02 May 2015
+
+**Server**
+	* Backend: PHP
+	* Database: MySQL
+	* Files:
+		* On Server
+			* User Access
+				* GPS (.gpx)
+				* Google Earth (.kml, .kmz)
+				* Maps (Topo! Files)
+				* Any program-derived data (e.g. for custom elevation profiles. Stored as text file.)
+					* Not in DB because users should be able to download
+			* Private
+				* Images
+					* For site skin (minor)
+					* For navigation maps & photos to use with Leaflet (major)
+	* Outside sources
+		* Picasa (for most images)
+		* NOAA - Weather forecast data
+
+**Data Transfer-Storage**
+	* JSON - for most transactions
+	* XML - special cases, such as NOAA & Google Earth
+
+**Client**
+	* Front End: HTML5, CSS3, Javascript 
+	* JQuery: Here and there for various effects
+	* Leaflet: 
+		* For navigation maps
+		* For high res photos
+	* Angular JS
+		* To make site more dynamic. Created from DB.
+			* One aim is to create a professional & personal site from the same data, likely gathered in almost the same way. Mostly just organized & filtered differently.
+		* To make some site pages easily transferrable to being apps.
+		* Format of data, such as for trip reports, can be better for parsing into various formats & destinations outside of the website. 
+	* Bootstrap: 
+		* To make easier layouts.
+		* To make site compatible with tablets & phones

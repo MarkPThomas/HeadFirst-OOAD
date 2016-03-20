@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-05-02T19:21:17-07:00
+
+====== Website Construction Notes ======
+Created Saturday 02 May 2015
+
+These pages contain old site references, other example sites, and specific implementation techniques for the new website, such as setting up the [[+MySQL]]  server and [[+BackEnd]] programming.
+
+**Child Pages:**
+* [[+Old Site References]]
+* [[+Google Earth Plugin]]
+* [[+MySQL]] 
+* [[+BackEnd]] 

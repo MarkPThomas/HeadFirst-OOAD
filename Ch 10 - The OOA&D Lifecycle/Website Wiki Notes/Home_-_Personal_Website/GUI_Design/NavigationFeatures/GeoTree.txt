@@ -1,0 +1,50 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-05-03T11:30:48-07:00
+
+====== GeoTree ======
+Created Sunday 03 May 2015
+
+The [[GeoTree]] is an expandable list based on the geographic hierarchies of the peak/feature or route of interest. Each level of the tree can itself can be a hyperlink to a page about that tree level. 
+
+The classifications are derived from the [[http://peakbagger.com/RangIndx.aspx|PEMRAC,]] and completed as desired within the personal database. Publicly available display is limited to areas where content exists on the website. Total display is limited to personal sections of the site used for planning trips and future expansion of the site.
+
+GeoTrees are based on a specified geographic hierarchy of features. No features can occupy more than one parent feature type.
+
+The trees are dynamically generated from Database Tables, and update accordingly. Links to the final child pages of interest have to do with the method by which the tree is entered (Trip Report, Guidebook, etc), and what the child element as listed as its most immediate parent.
+
+This page also includes a navigable map using [[Home - Personal Website:Ideas:Outside Services:LeafLet|Leaflet]]. The individual regions are separate layers that can be selectively turned on/off. All child elements are shown, and depending on the level of zoom, the different regions are highlighted & various ways (outlines, overlays, etc.). Zooming in to certain regions may cause the background to change to a custom map for the area.
+
+For Example:
+	* North America
+		* Rocky Mountains
+			* Canadian Rockies
+			* Colorado Rockies
+				* Front Range
+				* Sawatch Range
+			* Wyoming Rockies
+			* Utah Rockies
+			* Idaho Rockies
+			* Montana Rockies
+		* Sierra Nevada
+			* High Sierra
+				* Whitney Range (?)
+					* Mt Whitney
+						* East Face
+						* East Buttress
+						* Mountaineer's Route
+						* Trail
+					* Mt Russell
+					* Keeler Needle
+				* Palisade Range
+				* Evolution Range
+		* Cascades
+		* Colorado Plateau
+			* "Moab Area"
+			* "Canyonlands Area"
+		* Basin & Range
+	* South America
+	* Europe
+	* Asia
+	* Australia
+	* Antarctica

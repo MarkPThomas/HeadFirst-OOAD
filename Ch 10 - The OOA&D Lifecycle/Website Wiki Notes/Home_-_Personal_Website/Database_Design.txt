@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-05-02T19:20:49-07:00
+
+====== Database Design ======
+Created Saturday 02 May 2015
+
+[[+Synchronization]] 

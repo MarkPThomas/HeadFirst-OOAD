@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-05-03T17:40:57-07:00
+
+====== Home - Professional Website ======
+Created Sunday 03 May 2015
+
+This wiki is created to document the planning process for my professional development website. This includes the following components:
+__...__
+
+**Target Audience**
+	* Unified group (for now):
+		* Prospective Employers
+		* Collaborators
+		* Community Sharing
+	* Demonstration of programming & other skills
+		* Implicit in site
+		* 'Sandbox' web page sections
+		* Apps
+		* Maps/GIS
+		* Software projects
+		* Structural Engineering
+			* Mostly archive
+			* Research/published papers
+			* Software development?
+		* Architecture (mostly archive)
+		* Art & Photography portfolio
+
+**Core Content**
+
+**Overall Flow**
+

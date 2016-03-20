@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-10T03:59:34-07:00
+
+====== Regions ======
+Created Wednesday 10 June 2015
+
+I used the following KML files as a source:
+
+**Coutries:**
+http://www.rjruss.info/2010/12/free-countries-of-world-in-polygon-kml.html
+
+**States:**
+https://developers.google.com/kml/documentation/us_states.kml 
+
+**Other:**
+http://apeoid.com/kmz-kml-padus/

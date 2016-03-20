@@ -1,0 +1,85 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-05-02T21:18:57-07:00
+
+====== Parent Trip Report ======
+Created Saturday 02 May 2015
+
+Trip report parents are outline trip report pages that have a collection of children trip reports. These trip report pages serve as a bit of a list page, or table of contents page.
+
+**Region Parents?**
+**TBD**
+
+**Geographic Parents**
+	For each level in the geographic tree there is a web page. At the very least this page includes links to the geographic parent and child, and all trip reports that lie within the geographic item or any of its children.
+	
+	The child reports are ordered:
+	* Alphabetically, corresponding to region/sub-region, etc.
+		* Within the smallest applicable group, by date
+
+**List Parents**
+	List parents are pages that include a list of peaks, climbs, etc., including a thumbnail  photo and blurb of the item. 
+	For each item that has been covered: 
+	* If the item has been 'ticked' (summitted, climbed, ridden, etc.) or 'attempted', then links to the corresponding trip report(s) are made avilable with the appropriate success/attempt tag.
+	* If the item has been 'researched' (before or after being 'ticked'), then links to the corresponding research page is made avilable.
+	
+	The child reports are ordered:
+	* In the order that the items are listed in the main page.
+		* Within the item, by date
+	Examples include:
+	* [[http://www.markpthomas.com/mountaineering/lists/50-classic-climbs-of-north-america-roper-steck|50 Classic Climbs of North America (Roper & Steck)]]
+	* [[http://www.markpthomas.com/mountaineering/lists/north-america-classic-climbs|North American Classic Climbs]]
+	* [[http://www.markpthomas.com/mountaineering/lists/cascade-volcanoes-jeff-smoot|Cascade Volcanoes (Jeff Smoot)]]
+	* [[http://www.markpthomas.com/mountaineering/lists/fred-beckeys-100-favorite-na-climbs|Fred Beckey's 100 Favorite North American Climbs]]
+	* [[http://www.markpthomas.com/mountaineering/lists/california-classics/high-sierra-climbing-supertopo|High Sierra Climbing (SuperTopo)]] (see others in this 'California Classics' grouping)
+
+**Introduction Parents**
+	Introduction parents are pages that cover multiple related trip reports that can be combined into a single story such as:
+	* Multiple attempts at an objective
+	* Multiday trip, with a trip report for each day/set of days or each objective
+	These pages describe the overall story, such as the background, and possibly the result. The report ending is usually written such that it continues on into the first report.
+	
+	Summary Divs are created for the page, which may or may not be visible depending on how the page coding chooses to use and place them. Certain columns can be manualy hidden even if they contain data. Rows are hidden if they do not contain data, and columns are hidden if no rows for the column contain any data. 
+	
+	These include lists of climbs grouped as follows where data exists in the corresponding **TripGroup** table:
+	* **Routes List:** Route (Feature/Peak, Name, (RatingPrimary, )
+		* Grouped by: **Characteristic:Character** table entries
+	* **Stats List:** Summed from all contained reports. 
+		* Grouped by: **Characteristic:Character(Cycling), Characteristic:Character(all else)**  table entries
+		* Distance (miles, miles/day)
+		* Elevation Gain (ft, ft/day)
+		* Elevation Loss (ft, ft/day)
+		* Average Speed (mph) (cycling only)
+		* Weight Carried (lbs) (Averaged by day?)
+
+	The child reports are ordered:
+	* By date
+	
+	In the footer for any of this page type, the trip report links are given the following order of prominence:
+	* Forward/back for the given list (this is passed on to the child pages?)
+	* Complete list of children, like a table of contents
+	* There is also a footer link to any version of the TR on other sites
+	
+	Examples include:
+	* [[http://www.markpthomas.com/mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver|Cycling and Scrambling from Calgary to Vancouver]] 
+	* [[http://www.markpthomas.com/mountaineering/trip-reports/california/sierra-challenge-2005|Sierra Challenge 2005]]
+
+**Summary Parents**
+	These pages are similar to introduction parents, except that for each child report, there is actually a mini report on this page, with a link to the complete child trip report.
+	
+	The child reports are ordered:
+	* By date	
+	
+	For each child report section, there is a mini-header that includes:
+	* Link to TR on the site (if present)
+	* Link to a photo album
+	
+	In the footer for any of this page type, the trip report links are given the following order of prominence:
+	* Forward/back for the given list (this is passed on to the child pages?)
+	* Complete list of children, like a table of contents
+	* There is also a footer link to any version of the TR on other sites
+	
+	Examples include:
+	* [[http://www.markpthomas.com/mountaineering/trip-reports/wyoming/teton-grand-slam-8-classic-routes-and-some-traverses-done-over-a-9-day-climbing-marathon|Teton Grand Slam]]
+	* [[http://www.markpthomas.com/mountaineering/trip-reports/california/palisade-tangent-traverse|Palisade Tangent Traverse]]
+

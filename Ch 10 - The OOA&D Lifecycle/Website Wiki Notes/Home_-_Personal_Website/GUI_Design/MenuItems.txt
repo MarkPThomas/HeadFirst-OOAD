@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-05-03T11:29:18-07:00
+
+====== MenuItems ======
+Created Sunday 03 May 2015
+
+* **Home**
+* **Trip Reports**
+	* Lists
+	* RegionsTree
+	* GeoTree
+	* Articles
+	* Most Popular
+* **Beta/Research**
+	* **Guidebooks**
+		* Lists
+		* RegionsTree
+		* GeoTree
+	* **Photography Research**
+		* Keywords & Tags
+		* Typed Queries
+		* Topics
+		* Geography
+	* Weather & Conditions
+	* **Personal Notes & Planning**
+		* Lists
+		* RegionsTree
+		* GeoTree
+	* Files (GPS, Topo!, KMZ, etc.)
+* **Photography**
+	* Albums by Date
+	* Dynamic Albums
+	* Most Popular
+* **Projects & Publishing**
+	* Apps
+	* Instruction
+	* Misc

@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-05-03T22:31:25-07:00
+
+====== GUI for Entering Data ======
+Created Sunday 03 May 2015
+
+Method
+	* Browser 
+		* Javascript? Perhaps for gathering image URLs & other web-related data...
+	* Software?
+		* Computer entry, as a WPF application

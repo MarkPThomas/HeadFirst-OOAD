@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-05-02T19:21:53-07:00
+
+====== Ideas ======
+Created Saturday 02 May 2015
+
+These pages are meant for writing out initial ideas for web pages. They might be fleshed out more here, and finally detail designed and implemented in other sections.
+
+**Child Pages**
+	* [[+Trip Reports|Trip Reports]] 
+		* [[+Trip Reports:Trip Report Types|Trip Report Types]]
+		* [[+Trip Reports:Trip Report Relations|Trip Report Relations]] 
+		* [[+Trip Reports:Trip Report Components|Trip Report Components]] 
+			* [[+Trip Reports:Trip Report Components:Trip Report Follow Along Navigator|Trip Report Follow Along Navigator]] 
+

@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-05-02T19:41:07-07:00
+
+====== Google Earth Plugin ======
+Created Saturday 02 May 2015
+
+**Problems**
+	* To view maps in 3D you need the Google Earth Plugin 
+		* There is a link displayed to download.
+		* The downloaded plugin doesn't seem to work anymore (5/2/2015)
+	* Might not be supported in the future?
+	* Limitations?

@@ -45,3 +45,27 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Visual Studio Junk
+*.cache
+*.config
+*.csproj
+*.filters
+*.idb
+*.ilk
+*.lastbuildstate
+*.log
+*.manifest
+*.obj
+*.opendb
+*.pdb
+*.sdf
+*.sln
+*.suo
+*.tlog
+*.user
+*.vs
+*.vshost.exe
+\bin
+\obj
+\properties

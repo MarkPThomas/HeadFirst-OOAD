@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-05-02T19:43:24-07:00
+
+====== Trip Report Types ======
+Created Saturday 02 May 2015
+
+In general, there seems to be a number of trip report types. These will be generated based on an enumeration chosen for the following trip report types:
+	* [[+Child Trip Report|Child Trip Report]] 
+	* [[+Parent Trip Report|Parent Trip Report]] 
+
+Every trip that is a report is a child trip report of some kind, as at a minimum it has a **geographical parent**.
