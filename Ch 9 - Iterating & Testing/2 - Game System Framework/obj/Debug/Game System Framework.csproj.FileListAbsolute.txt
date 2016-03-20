@@ -1,0 +1,12 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-OOAD\Ch 9 - Iterating & Testing\1 - Game System Framework\bin\Debug\Game System Framework.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-OOAD\Ch 9 - Iterating & Testing\1 - Game System Framework\bin\Debug\Game System Framework.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-OOAD\Ch 9 - Iterating & Testing\1 - Game System Framework\bin\Debug\Game System Framework.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-OOAD\Ch 9 - Iterating & Testing\1 - Game System Framework\obj\Debug\Game System Framework.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-OOAD\Ch 9 - Iterating & Testing\1 - Game System Framework\obj\Debug\Game System Framework.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-OOAD\Ch 9 - Iterating & Testing\1 - Game System Framework\obj\Debug\Game System Framework.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-OOAD\Ch 9 - Iterating & Testing\2 - Game System Framework\bin\Debug\Game System Framework.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-OOAD\Ch 9 - Iterating & Testing\2 - Game System Framework\obj\Debug\Game System Framework.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-OOAD\Ch 9 - Iterating & Testing\2 - Game System Framework\obj\Debug\Game System Framework.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-OOAD\Ch 9 - Iterating & Testing\2 - Game System Framework\bin\Debug\Game System Framework.exe
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-OOAD\Ch 9 - Iterating & Testing\2 - Game System Framework\bin\Debug\Game System Framework.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-OOAD\Ch 9 - Iterating & Testing\2 - Game System Framework\obj\Debug\Game System Framework.csprojResolveAssemblyReference.cache

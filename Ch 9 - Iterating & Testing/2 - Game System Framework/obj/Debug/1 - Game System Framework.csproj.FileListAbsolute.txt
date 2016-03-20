@@ -1,0 +1,2 @@
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-OOAD\Ch 7 - Architecture\1 - Game System Framework\bin\Debug\1 - Game System Framework.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\HeadFirst-OOAD\Ch 7 - Architecture\1 - Game System Framework\bin\Debug\Game System Framework.exe.config
